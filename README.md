@@ -13,3 +13,11 @@ A web app that displays lists of top 3 films from across the world in 3 sections
 # Tech Stack used:
 
 HTML, CSS, ReactJS
+
+# Project Link:
+
+https://codesandbox.io/s/github/InvincibleRP1/movie-arena
+
+# Website Link
+
+https://movie-arena-rp.netlify.app/
